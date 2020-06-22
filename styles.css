@@ -1,0 +1,17 @@
+  
+.header-container{
+   padding: 17rem; 
+   background-color:#777777;
+ 
+}
+.background-primary{
+    background-color: #f8f9fa;
+}
+.background-secondary{
+    background-color: #eefd9d3d
+
+}
+h2{
+    color:#777777;
+    text-align:center;
+}
