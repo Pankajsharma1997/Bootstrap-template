@@ -1,0 +1,14 @@
+  
+.header-container{
+ height:50%;
+background-color : #ffffff}
+
+h1{
+    color:#777777;
+    text-align:center;
+    padding-top:5rem;
+}
+background-primary p-4{
+    background-color: #ffffff;
+    border-bottom: #777777;
+}
