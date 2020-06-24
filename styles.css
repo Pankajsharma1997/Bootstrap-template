@@ -4,14 +4,10 @@
 background-color : #ffffff;
 }
 
-h1{
-   
-    padding-top:5rem;
 
-}
 .background-primary p-4{
     background-color: #ffffff;
-    border-bottom: #777777;
+
 }
 .card-img-top{
     height:9rem;
@@ -25,3 +21,20 @@ h1{
 .text-image-container{
     margin-top: 5rem;
 }
+.carousel-item{
+    height:100vh;
+}
+.carousel-item img{
+    object-fit: contain;
+}
+
+.text1-center{
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 35%;
+        transform: translate(-50%, -50%);
+      } 
+      .border-bottom {
+        border-bottom: 5px solid rgb(163, 154, 154);
+      }
